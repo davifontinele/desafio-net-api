@@ -1,0 +1,6 @@
+@desaio_api_HostAddress = http://localhost:5195
+
+GET {{desaio_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
